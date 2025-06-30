@@ -13,11 +13,11 @@ The LLM Zoomcamp is a hands-on bootcamp focused on Large Language Models (LLMs),
 ## 🗂️ Repository Structure
 
 ```
-llm-zoomcamp-homeworks/
+llm-zoomcamp/
 │
 ├── 01-intro/
 │   ├── README.md
-│   └── homework.ipynb
+│   └── rag-intro.ipynb
 ├── 02-vector-search/
 │   ├── README.md
 │   └── homework.ipynb

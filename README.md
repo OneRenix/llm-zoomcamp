@@ -44,7 +44,7 @@ Each folder contains:
 
 ## ✅ Progress Checklist
 
-- [✅] 01-intro
+- [x] 01-intro ([homework completed](01-intro/rag-intro.ipynb))
 - [ ] 02-vector-search
 - [ ] 03-evaluation
 - [ ] 04-monitoring

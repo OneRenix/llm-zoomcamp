@@ -20,7 +20,7 @@ llm-zoomcamp/
 │   └── rag-intro.ipynb
 ├── 02-vector-search/
 │   ├── README.md
-│   └── homework.ipynb
+│   └── 02-vector-search-homework.ipynb
 ├── 03-evaluation/
 │   ├── README.md
 │   └── homework.ipynb
@@ -45,7 +45,7 @@ Each folder contains:
 ## ✅ Progress Checklist
 
 - [x] 01-intro ([homework completed](01-intro/rag-intro.ipynb))
-- [ ] 02-vector-search
+- [x] 02-vector-search
 - [ ] 03-evaluation
 - [ ] 04-monitoring
 - [ ] 05-best-practices

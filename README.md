@@ -21,6 +21,12 @@ llm-zoomcamp/
 ├── 02-vector-search/
 │   ├── README.md
 │   └── 02-vector-search-homework.ipynb
+├── workshop-open-source-data-integration
+│   ├── README.md
+│   └── workshop-open-source-dlt-hw.ipynb
+├── workshop-ai-agents
+│   ├── README.md
+│   └── workshop-ai-agents-hw.ipynb
 ├── 03-evaluation/
 │   ├── README.md
 │   └── homework.ipynb
@@ -46,6 +52,8 @@ Each folder contains:
 
 - [x] 01-intro ([homework completed](01-intro/rag-intro.ipynb))
 - [x] 02-vector-search
+- [ ] workshop-open-source-data-integration
+- [ ] workshop-ai-agents
 - [ ] 03-evaluation
 - [ ] 04-monitoring
 - [ ] 05-best-practices

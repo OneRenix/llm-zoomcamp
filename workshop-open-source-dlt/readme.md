@@ -17,8 +17,12 @@ This is a **Google Colab notebook** that walks you through building data ingesti
 ## 📘 What You'll Learn
 
 ✅ How to:
-
-![DLT Pipeline Flowchart](images/dlt_qdrant_pipeline.png)
+1. Ingest json data using dlt as a resource 
+2. Use Qdrant vector database locally as destination for pipeline
+3. Define a dlt pipeline 
+4. Run a dlt pipeline with Qdrant 
+5. Access the location of local vector database and locate the meta.json. 
+6. Enable debugging of pipeline using last_trace.
 
 Notes:
 - `dlt` is an open source data pipeline that automatically turns data from different data sources (API, Structured and Semi Structured data, Python data structures) into a live dataset stored in a destination of your choices. You can easily implement your own sources, as long as you yield data in a way that is compatible with dlt, such as JSON objects, Python lists and dictionaries, pandas dataframes, and arrow tables. `dlt` will be able to automatically compute the schema and move the data to your destination.

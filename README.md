@@ -52,7 +52,7 @@ Each folder contains:
 
 - [x] 01-intro ([homework completed](01-intro/rag-intro.ipynb))
 - [x] 02-vector-search
-- [ ] workshop-open-source-data-integration
+- [x] workshop-open-source-data-integration
 - [ ] workshop-ai-agents
 - [ ] 03-evaluation
 - [ ] 04-monitoring

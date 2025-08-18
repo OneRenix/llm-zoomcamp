@@ -54,7 +54,7 @@ Each folder contains:
 - [x] 02-vector-search
 - [x] workshop-open-source-data-integration
 - [x] 02-agents
-- [ ] 03-evaluation
+- [x] 03-evaluation
 - [ ] 04-monitoring
 - [ ] 05-best-practices
 - [ ] 06-project-example
